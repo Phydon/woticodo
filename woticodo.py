@@ -29,8 +29,8 @@ class CountdownTimer:
         )
         self.style.configure(
             "TButton",
-            background="#008CBA",  # Hintergrundfarbe des Buttons
-            foreground="#FF4081",  # Textfarbe des Buttons
+            background="#008CBA",
+            foreground="#FF4081",
             font=("Helvetica", 12, "bold"),
         )
 
